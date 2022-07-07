@@ -1,0 +1,8 @@
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\bin\Debug\polindromsayıconsol.exe.config
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\bin\Debug\polindromsayıconsol.exe
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\bin\Debug\polindromsayıconsol.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\obj\Debug\polindromsayıconsol.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\obj\Debug\polindromsayıconsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\obj\Debug\polindromsayıconsol.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\obj\Debug\polindromsayıconsol.exe
+C:\Users\CASPER\OneDrive\Masaüstü\ÇALIŞMAK İÇİN\polindromsayıconsol\polindromsayıconsol\obj\Debug\polindromsayıconsol.pdb
